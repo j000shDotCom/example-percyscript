@@ -1,3 +1,6 @@
+// export PERCY_API=http://dev.percy.local:9090/api/v1
+// npm run snapshots
+
 const PercyScript = require('@percy/script');
 const httpServer = require('http-server');
 
